@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩名物解
-#+DATE: 2015-09-23 09:36:31
-#+PROPERTY: JUAN 17
+#+DATE: 2015-08-24 22:04:29.983636
+#+PROPERTY: ID KR1c0011
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十七
 <pb:KR1c0011_WYG_017-1a>¶
 欽定四庫全書¶
 　毛詩名物觧卷十七¶
@@ -200,4 +202,3 @@
 　¶
 　¶
 　毛詩名物觧卷十七¶
-
